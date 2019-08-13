@@ -10,7 +10,7 @@
         <local:QuadrantToAngleConverter x:Key="QuadrantToAngleConverter" />
     </UserControl.Resources>
 
-    <Image Source="Assets/arrow.png" RenderTransformOrigin="0.5,0.5" Margin="3 0">
+    <Image Source="../Assets/arrow.png" RenderTransformOrigin="0.5,0.5" Margin="3 0">
         <Image.RenderTransform>
             <RotateTransform Angle="{Binding Quadrant, Converter={StaticResource QuadrantToAngleConverter}}" />
         </Image.RenderTransform>
