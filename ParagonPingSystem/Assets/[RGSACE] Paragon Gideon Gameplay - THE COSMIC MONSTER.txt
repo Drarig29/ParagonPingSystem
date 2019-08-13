@@ -1,0 +1,10 @@
+INFO
+
+This file was too big to be uploaded to GitHub.
+So please download the video file (mp4) here:
+
+https://www.dropbox.com/s/4tpxnqnfhmssocd/%5Brgsace%5D%20paragon%20gideon%20gameplay%20-%20the%20cosmic%20monster.mp4?dl=0
+
+And put in the "Assets" folder without changing its download name ("[RGSACE] Paragon Gideon Gameplay - THE COSMIC MONSTER.mp4")
+
+WARNING: If the filename is not that one, the software won't find it.
